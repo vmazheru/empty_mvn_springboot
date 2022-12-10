@@ -9,7 +9,7 @@
   <name>springboot_test</name>
 
   <properties>
-    <spring.version>5.0.9.RELEASE</spring.version>
+    <spring.version>6.0.0</spring.version>
     <spring.boot.version>2.0.5.RELEASE</spring.boot.version>
     <jackson.version>2.10.1</jackson.version>
     <junit.jupiter.version>5.3.1</junit.jupiter.version>
